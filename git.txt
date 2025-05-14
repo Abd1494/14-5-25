@@ -7,4 +7,5 @@ git remote add origin url
 git status 
 git branch
 git push origin dev
-git checkout -b prod
+git checkout -b prod -- creating new branch
+git checkout dev -- switching new branch
