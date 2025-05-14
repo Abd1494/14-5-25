@@ -1,0 +1,8 @@
+git
+git init
+git status
+git add .
+git commit . -m 1st
+git remote add origin url
+git status 
+git branch
